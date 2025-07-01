@@ -60,7 +60,7 @@ public class CustomStackUsingLinkedList<T> {
         System.out.println();
     }
 }
-class Test{
+class CustomStackUsingLinkedListTest{
     public static void main(String[] args) {
         CustomStackUsingLinkedList stack = new CustomStackUsingLinkedList<>();
         stack.push(1);

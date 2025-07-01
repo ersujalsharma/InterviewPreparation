@@ -49,7 +49,7 @@ public class CustomStack<T> {
     }
 
 }
-class Test{
+class CustomStackTest{
     public static void main(String[] args) {
         CustomStack<Integer> stack = new CustomStack<>();
         stack.push(1);

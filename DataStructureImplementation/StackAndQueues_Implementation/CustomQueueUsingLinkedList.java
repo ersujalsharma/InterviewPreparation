@@ -70,7 +70,7 @@ public class CustomQueueUsingLinkedList<T> {
     }
 
 }
-class Test {
+class CustomQueueUsingLinkedListTest {
     public static void main(String[] args) {
         CustomQueueUsingLinkedList<Integer> queue = new CustomQueueUsingLinkedList<>();
         queue.add(1);

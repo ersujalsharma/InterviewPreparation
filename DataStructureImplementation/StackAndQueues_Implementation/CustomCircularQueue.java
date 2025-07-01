@@ -45,7 +45,7 @@ public class CustomCircularQueue<T> {
         System.out.println(Arrays.toString(array));
     }
 }
-class Test{
+class CustomCircularQueueTest{
     public static void main(String[] args) {
         CustomCircularQueue<Integer> queue = new CustomCircularQueue<>();
         queue.add(1);

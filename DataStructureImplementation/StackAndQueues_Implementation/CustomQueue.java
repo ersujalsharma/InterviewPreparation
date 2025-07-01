@@ -42,7 +42,7 @@ public class CustomQueue<T> {
      
 }
 
-class Test{
+class CustomQueueTest{
     public static void main(String[] args) {
         CustomQueue<Integer> queue = new CustomQueue<>();
         queue.add(1);
